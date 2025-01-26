@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-## 🔭 I’m currently working on my Final Year Project (FYP) at NTU designing a Utensil Attachment for an Assistive Feeding Robotic Arm
-## 🌱 I’m currently learning how to use Github
+### - 🔭 I’m currently working on my Final Year Project (FYP) at NTU designing a Utensil Attachment for an Assistive Feeding Robotic Arm
+### - 🌱 I’m currently learning how to use Github
 <!--
 **HWC003/HWC003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
