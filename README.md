@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the Assistive Feeding Robot Project at Nanyang Technological University (NTU) Assistive Robotics Lab
+- 🔭 I am currently working on the Assistive Feeding Robot Project at the Assistive Robotics Lab, Nanyang Technological University (NTU).
 - 📫 How to reach me: HAUWEN001@e.ntu.edu.sg
 <!--
 **HWC003/HWC003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
